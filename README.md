@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahebdhara9" target="blank"><img src="https://img.shields.io/twitter/follow/sahebdhara9?logo=twitter&style=for-the-badge" alt="sahebdhara" /></a> </p>
 
-- 🔭 I’m currently working with [TRUELANCING](www.truelancing.com)
+- 🔭 I’m currently working with [TRUELANCING](https://www.truelancing.com/)
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
