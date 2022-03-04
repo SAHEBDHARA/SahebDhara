@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/lifeofsoumya/github-readme-activity-graph"><img alt="Saheb Dhara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahebdhara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sahebdhara/github-readme-activity-graph"><img alt="Saheb Dhara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahebdhara&bg_color=0D1117&color=ff0a54&line=ff5c8a&point=fbb1bd&hide_border=true" /></a>
 
 <br/>
 <br/>
