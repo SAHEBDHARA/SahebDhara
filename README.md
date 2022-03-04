@@ -34,7 +34,7 @@
 
   <br/>
     <a href="https://github.com/sahebdhara/github-readme-stats"><img alt="Saheb Dhara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahebdhara&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=001219" /></a>
-  <a href="https://github.com/lifeofsoumya/github-readme-stats"><img alt="Saheb Dhara's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebdhara&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=001219" /></a>
+  <a href="https://github.com/sahebdhara/github-readme-stats"><img alt="Saheb Dhara's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebdhara&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=ffd500" /></a>
   <br/>
 
 
