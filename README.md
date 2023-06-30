@@ -10,7 +10,7 @@ ly working with [TRUELANCING](https://www.truelancing.com/)
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👯 I’m looking to collaborate on [HUNTAX](https://github.com/Huntax)
+- 👯 I’m looking to collaborate on [Lendwise](https://lendwise.vercel.app/)
 
 - 📝 I regularly write articles on [www.indgeek.com](www.indgeek.com)
 
