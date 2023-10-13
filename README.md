@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Saheb Dhara</h1>
-<h3 align="center">A passionate learner and founder of truelancing.com</h3>
+<h3 align="center">A passionate learner and Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/sahebdhara9" target="blank"><img src="https://img.shields.io/twitter/follow/sahebdhara9?logo=twitter&style=for-the-badge" alt="sahebdhara" /></a> </p>
 
